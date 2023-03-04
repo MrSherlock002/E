@@ -1,0 +1,260 @@
+{
+    "products": [
+    {
+      "id": "1",
+      "name": "Blue Macaw",
+      "breed": "Macaw",
+      "price": 25000,
+      "colors": ["#ff0000", "#000000", "#CDD0D0"],
+      "image": "https://drive.google.com/uc?export=download&id=1RZ1lxhKVaY2GYWo7ZZskQkWlgcAhXgT9",
+      "description": "This is a very attractive bird.",
+      "category": "Bird",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "name": "Red Macaw",
+      "breed": "Macaw",
+      "price": 30000,
+      "colors": ["#000", "#22D3EF"],
+      "image": "https://drive.google.com/uc?export=download&id=10Uf-iVw97X5HU4RWYFZC7FEI0Q8giAiX",
+      "description": "This is a very attractive bird.",
+      "category": "Bird",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "name": "Meine Coon Cat",
+      "breed": "Meine Coon",
+      "price": 20000,
+      "colors": ["#22D3EF", "#CDD0D0"],
+      "image": "https://drive.google.com/uc?export=download&id=1lTS1fBq9EoADLgBGWdtOcLHNbnABtDKN",
+      "description": "This is a very good cat to adopt.",
+      "category": "Cat"
+    },
+    {
+      "id": "4",
+      "name": "Persian Cat",
+      "breed": "Persian",
+      "price": 50000,
+      "colors": ["#000", "#000000", "#CDD0D0"],
+      "image": "https://drive.google.com/uc?export=download&id=1mUgA5kaH5grST8Hu4g5_PYxmAGlxtLJa",
+      "description": "Just fall in love with Persian Cats.",
+      "category": "Cat",
+      "featured": true
+    },
+    {
+      "id": "5",
+      "name": "Ragdoll Cat",
+      "breed": "Ragdoll",
+      "price": 10000,
+      "colors": ["#000", "#CDD0D0"],
+      "image": "https://drive.google.com/uc?export=download&id=1SsRjq5WluJ_fjpDuYC3jgNQv244kDNu3",
+      "description": "Nice cat to adopt.",
+      "category": "Cat"
+    },
+    {
+      "id": "6",
+      "name": "American Eskimo Dog",
+      "breed": "American Eskimo",
+      "price": 18000,
+      "colors": ["#000000", "#CDD0D0"],
+      "image": "https://drive.google.com/uc?export=download&id=1zUMyRy5NBXxYI-QqmVTO90U0xOEgpPjN",
+      "description": "Cute dog with white color.",
+      "category": "Dog"
+    },
+    {
+      "id": "7",
+      "name": "English Pitbull Dog",
+      "breed": "English Pitbull",
+      "price": 23999,
+      "colors": ["#CDD0D0", "#000"],
+      "image": "https://drive.google.com/uc?export=download&id=1zfsAUo9aovsgojHMoy9pf2L9RUP-whjl",
+      "description": "If you love small dog then this is best fit for you",
+      "category": "Dog"
+    },
+    {
+      "id": "8",
+      "name": "German Shefard Dog",
+      "price": 24500,
+      "breed": "German Shefard",
+      "colors": ["#000", "#CDD0D0"],
+      "image": "https://drive.google.com/uc?export=download&id=1uLI_-4CM_irpwhIjpsP6gFL8WyFKz73p",
+      "description": "These are human friendly dogs. If you need loyal companion then go for this dog.",
+      "category": "Dog",
+      "featured": true
+    },
+    {"id": "9",
+    "name": "Black German Shefard Dog",
+    "price": 32000,
+    "breed": "German Shefard",
+    "colors": ["#000", "#CDD0D0"],
+    "image": "https://drive.google.com/uc?export=download&id=12Sf0pyssWBy34tChPePIDsZso0xzA4-e",
+    "description": "These are human friendly dogs. If you need loyal companion then go for this dog.",
+    "category": "Dog",
+    "featured": true
+    },
+    {
+        "id": "10",
+        "name": "Golden_Retriever Dog",
+        "price": 50000,
+        "breed": "Golden Retriever",
+        "colors": ["#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1__r--Qf2b8J8htQH6cPhoK25XDvaf0Z-",
+        "description": "Best human friendly dogs breed.",
+        "category": "Dog",
+        "featured": true
+    },
+    {
+        "id": "11",
+        "name": "Black Husky",
+        "breed": "Husky",
+        "price": 55000,
+        "colors": ["#ff0000", "#22D3EF", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1BEAkXp1bdLD8h_mbaFI_ZZ6xF0jzNFuz",
+        "description": "Best lovable dog breed ever.",
+        "category": "Dog"
+    },
+    {
+      "id": "12",
+      "name": "Rottweiler Dog",
+      "price": 60000,
+      "breed": "Rottweiler",
+      "colors": ["#22D3EF", "#ff0000", "#000000"],
+      "image": "https://drive.google.com/uc?export=download&id=10sVZCBauQP1TkBYQsDbxFwSt4qh-aNYj",
+      "description": "If you love dogs barking then this is best fit for you.",
+      "category": "Dog",
+      "featured": true
+    },{
+        "id": "13",
+        "name": "Brown Siberian Husky Dog",
+        "price": 55000,
+        "breed": "Siberian Husky",
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1UJQcbjwdHdKLyjgbVOuY5tOPv2XXiAMW",
+        "description": "Best dog breed.",
+        "category": "Dog",
+        "featured": true
+      },{
+        "id": "14",
+        "name": "Blue eye Siberian Husky Dog",
+        "price": 77000,
+        "breed": "Siberian Husky",
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1vsgUIW3h0wBUoUuoCMGjLoj6ZxX-IzCD",
+        "description": "Blue eyes -> hypnotize :) ",
+        "category": "Dog"
+      },{
+        "id": "15",
+        "name": "Fighter Fish",
+        "price": 500,
+        "breed": "Fighter Fish",
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1XlAELfqga2kXlRXttC1twbbbejJrQoWM",
+        "description": "This very attractive breed of fish.",
+        "category": "Fish",
+        "featured": true
+      },{
+        "id": "16",
+        "name": "Gold Fish",
+        "price": 1000,
+        "breed": "Gold Fish",
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1Mtx4aDahtVrqM59Xtfux6QesOGgj2HFR",
+        "description": "Best fish breed to adopt.",
+        "category": "Fish"
+      },{
+        "id": "17",
+        "name": "Gold Fish",
+        "price": 1200,
+        "breed": "Gold Fish",
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1Gg2UJESOdlAgV-J_Vr4_n3P7IPjRlTlD",
+        "description": "Best fish breed to adopt.",
+        "category": "Fish",
+        "featured": true
+      },{
+        "id": "18",
+        "name": "Koi Fish",
+        "price": 1500,
+        "breed": "Koi Fish",
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1gnVBri2ZZmcOXewxz5wcXwASNk9yLYPF",
+        "description": "Attractive breed of fish.",
+        "category": "Fish"
+        
+      },{
+        "id": "19",
+        "name": "Koi Fish",
+        "price": 1200,
+        "breed": "Koi Fish",
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1BiO-8FZlLkbAuvxC7EsiTlG2nUKFVWTn",
+        "description": "Attractive breed of fish.",
+        "category": "Fish"
+        
+      },{
+        "id": "20",
+        "name": "Drools Dog Food",
+        "price": 6000,
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1RRzPKZlviiJ7tvfziDvy5q44SEG47QPm",
+        "description": "Best dog food product.",
+        "category": "Food",
+        "featured": true
+      },{
+        "id": "21",
+        "name": "Pedigree Dog Food",
+        "price": 3000,
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1N_qAKpvCRcQn5-IcXX0hxothxn6YM39r",
+        "description": "Best quality product for your pet.",
+        "category": "Food",
+        "featured": true
+      },{
+        "id": "22",
+        "name": "Royal Canin for puppy",
+        "price": 2300,
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1C18wFHWLM7WTqoxXh1FCSoOX2uCYAp7j",
+        "description": "Specially designed for puppy.",
+        "category": "Food",
+        "featured": true
+      },{
+        "id": "23",
+        "name": "Dog Belt Rope",
+        "price": 3400,
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1M6HpwfnXKo0xCggBLOeqRmvC5SHPa7OI",
+        "description": "Quality product.",
+        "category": "Pet Accessories"
+      },{
+        "id": "24",
+        "name": "Dog Harness With belt",
+        "price": 4000,
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1YwPq9USHyxIlT3l7YMx4HKOmb5N4rx7-",
+        "description": "Best worth product.",
+        "category": "Pet Accessories"
+      },{
+        "id": "25",
+        "name": "Rabbit",
+        "price": 3000,
+        "breed": "Holland Lop",
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1pT6TsJeqGbsC76ecrulzaS4tTFjDUvgE",
+        "description": "This can be good pet if you have interest in rabbits.",
+        "category": "Rabbit"
+      },{
+        "id": "26",
+        "name": "White Rabbit",
+        "price": 5000,
+        "breed": "Dwarf Hotot",
+        "colors": ["#22D3EF", "#ff0000", "#000000"],
+        "image": "https://drive.google.com/uc?export=download&id=1S6Ya7VnG3Cg5-Tr7rWtUMe5UWTrbN4ne",
+        "description": "New small fur friend.",
+        "category": "Rabbit",
+        "featured": true
+      }
+  ]
+}
