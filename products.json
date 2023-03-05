@@ -1,5 +1,4 @@
-{
-    "products": [
+[
     {
       "id": "1",
       "name": "Blue Macaw",
@@ -257,4 +256,3 @@
         "featured": true
       }
   ]
-}
